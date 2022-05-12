@@ -1,4 +1,4 @@
-# World-Happiness-Wealth-Plotly-Cufflinks-MiniProject
+# World-Happiness-Wealth-MiniProject
 Exploring world GDP through interactive visualization and a machine learning application: linear regression model that predicts logged GDP through a variety of variables.
 
 Dataset: World Happiness Report (data is included in the repository).
