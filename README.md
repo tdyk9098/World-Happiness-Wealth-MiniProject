@@ -54,7 +54,7 @@ from sklearn.linear_model import LinearRegression
 
 from sklearn import metrics
 
-Observations:
+# Observations:
 
 - Life Expectancy and Logged GDP per capita have an R = .859 with a P Val = 1.09e^-44
 - Social Support and Logged GDP per capita have an R = .785 with a P Val = 2.05e^-32
