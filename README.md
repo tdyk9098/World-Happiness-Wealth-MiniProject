@@ -37,6 +37,8 @@ pip install cufflinks
 
 pip install chart-studio
 
+pip install -U scikit-learn
+
 # Import:
 import pandas as pd
 
