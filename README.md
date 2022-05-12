@@ -6,7 +6,7 @@ Dataset: World Happiness Report (data is included in the repository).
 The objective was to showcase the powerful interactive visualization tools of Plotly and Cufflinks by looking at World Happiness and Wealth data.
 Descriptive data findings are easy interpreted, while still only scratching the surface of the possible graph types.
 
-The machine learning component is a model that takes in Ladder score, SE of ladder score, upper and lower whisker, social support, life expectancy, freedome to make choices, generosity, perceptions of corruption, and ladder score in dystopia.
+The machine learning component is a model that takes in Ladder score, SE of ladder score, upper and lower whisker, social support, life expectancy, freedom to make choices, generosity, perceptions of corruption, and ladder score in dystopia.
 
 
 # Install:
