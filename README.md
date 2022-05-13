@@ -39,6 +39,8 @@ pip install chart-studio
 
 pip install -U scikit-learn
 
+pip install scipy | conda install -c anaconda scipy
+
 # Import:
 import pandas as pd
 
